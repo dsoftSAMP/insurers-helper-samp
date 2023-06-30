@@ -4,8 +4,8 @@
       "license":{
         "admin_name":"System",
         "reissue":{
-          "left":5,
-          "reason":"Отсутствует"
+          "reason":"Отсутствует",
+          "left":5
         },
         "hwid":1110805837,
         "issued":"19:00 29.06.2023",
@@ -25,15 +25,15 @@
         "reason":"Отсутствует",
         "admin":"Отсутствует",
         "state":false,
-        "expiration":"Отсутствует",
-        "issued":"Отсутствует"
+        "issued":"Отсутствует",
+        "expiration":"Отсутствует"
       }
     }
   },
   "head":{
     "token":"6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
     "admin":{
-      "Gay":"Да-да, он гей!",
+      "Gay":"НАТУРАЛЛЛЛЛЛЛЛЛЛЛЛЛ!",
       "username":"sanyabond008",
       "chat_id":1736139431
     }
