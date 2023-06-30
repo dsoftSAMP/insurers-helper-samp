@@ -1,17 +1,19 @@
 {
+  "AutoYN":false,
+  "AutoInsert":false,
   "user":{
     "1":{
       "license":{
         "admin_name":"System",
         "reissue":{
-          "reason":"Отсутствует",
-          "left":5
+          "left":5,
+          "reason":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
         },
         "hwid":1110805837,
         "issued":"19:00 29.06.2023",
-        "tariff":"Навсегда",
+        "tariff":"РќР°РІСЃРµРіРґР°",
         "valid":"19:00 30.06.2028",
-        "admin_role":"Тех. администратор"
+        "admin_role":"РўРµС…. Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ"
       },
       "log":[],
       "telegram":{
@@ -22,20 +24,38 @@
         "action":false
       },
       "ban":{
-        "reason":"Отсутствует",
-        "admin":"Отсутствует",
+        "reason":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "issued":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
         "state":false,
-        "issued":"Отсутствует",
-        "expiration":"Отсутствует"
+        "expiration":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "admin":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
       }
     }
+  },
+  "Bot":{
+    "Collision":false,
+    "StreamChat":false,
+    "State":false,
+    "Sprint":false,
+    "Jumps":false
   },
   "head":{
     "token":"6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
     "admin":{
-      "Gay":"НАТУРАЛЛЛЛЛЛЛЛЛЛЛЛЛ!",
+      "Gay":"РќРђРўРЈР РђР›Р›Р›Р›Р›Р›Р›Р›Р›Р›Р›Р›Р›!",
       "username":"sanyabond008",
       "chat_id":1736139431
     }
-  }
+  },
+  "AutoTicket":false,
+  "AudioMessage":{
+    "FINISH":true,
+    "State":true,
+    "NEW":true,
+    "UNAVAILABLE":true,
+    "Volume":100
+  },
+  "FloodDelay":100,
+  "AutoDoor":false,
+  "AutoAdmin":false
 }
