@@ -4,14 +4,14 @@
       "license":{
         "admin_name":"System",
         "reissue":{
-          "reason":"Отсутствует",
-          "left":5
+          "left":5,
+          "reason":""
         },
         "hwid":1110805837,
         "issued":"19:00 29.06.2023",
-        "tariff":"Навсегда",
+        "tariff":"",
         "valid":"19:00 30.06.2028",
-        "admin_role":"Тех. администратор"
+        "admin_role":". "
       },
       "log":[],
       "telegram":{
@@ -22,11 +22,11 @@
         "action":false
       },
       "ban":{
-        "reason":"Отсутствует",
-        "issued":"Отсутствует",
+        "reason":"",
+        "admin":"",
         "state":false,
-        "admin":"Отсутствует",
-        "expiration":"Отсутствует"
+        "expiration":"",
+        "issued":""
       }
     }
   },
