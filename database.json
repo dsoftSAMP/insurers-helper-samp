@@ -5,13 +5,13 @@
         "admin_name":"System",
         "reissue":{
           "left":5,
-          "reason":"выф"
+          "reason":""
         },
         "hwid":1110805837,
         "issued":"19:00 29.06.2023",
-        "tariff":"фвыфвы",
+        "tariff":"",
         "valid":"19:00 30.06.2028",
-        "admin_role":"фвыфвы. фыфвы"
+        "admin_role":". "
       },
       "log":[],
       "telegram":{
@@ -22,17 +22,18 @@
         "action":false
       },
       "ban":{
-        "reason":"нету",
-        "admin":"нету",
+        "reason":"",
+        "admin":"",
         "state":false,
-        "expiration":"нету",
-        "issued":"нету"
+        "expiration":"",
+        "issued":""
       }
     }
   },
   "head":{
     "token":"6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
     "admin":{
+      "Gay":"��-��, �� ���!",
       "username":"sanyabond008",
       "chat_id":1736139431
     }
