@@ -1,19 +1,25 @@
 {
   "AutoYN":false,
-  "AutoInsert":false,
+  "AudioMessage":{
+    "FINISH":true,
+    "State":true,
+    "Volume":100,
+    "NEW":true,
+    "UNAVAILABLE":true
+  },
   "user":{
     "1":{
       "license":{
         "admin_name":"System",
         "reissue":{
-          "left":5,
-          "reason":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
+          "reason":"Р С›РЎвЂљРЎРѓРЎС“РЎвЂљРЎРѓРЎвЂљР Р†РЎС“Р ВµРЎвЂљ",
+          "left":5
         },
         "hwid":1110805837,
         "issued":"19:00 29.06.2023",
-        "tariff":"РќР°РІСЃРµРіРґР°",
+        "tariff":"Р СњР В°Р Р†РЎРѓР ВµР С–Р Т‘Р В°",
         "valid":"19:00 30.06.2028",
-        "admin_role":"РўРµС…. Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ"
+        "admin_role":"Р СћР ВµРЎвЂ¦. Р В°Р Т‘Р СР С‘Р Р…Р С‘РЎРѓРЎвЂљРЎР‚Р В°РЎвЂљР С•РЎР‚"
       },
       "log":[],
       "telegram":{
@@ -24,38 +30,32 @@
         "action":false
       },
       "ban":{
-        "reason":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
-        "issued":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "reason":"Р С›РЎвЂљРЎРѓРЎС“РЎвЂљРЎРѓРЎвЂљР Р†РЎС“Р ВµРЎвЂљ",
+        "issued":"Р С›РЎвЂљРЎРѓРЎС“РЎвЂљРЎРѓРЎвЂљР Р†РЎС“Р ВµРЎвЂљ",
         "state":false,
-        "expiration":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
-        "admin":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
+        "admin":"Р С›РЎвЂљРЎРѓРЎС“РЎвЂљРЎРѓРЎвЂљР Р†РЎС“Р ВµРЎвЂљ",
+        "expiration":"Р С›РЎвЂљРЎРѓРЎС“РЎвЂљРЎРѓРЎвЂљР Р†РЎС“Р ВµРЎвЂљ"
       }
     }
   },
   "Bot":{
     "Collision":false,
-    "StreamChat":false,
-    "State":false,
     "Sprint":false,
-    "Jumps":false
+    "State":false,
+    "Jumps":false,
+    "StreamChat":false
   },
   "head":{
     "token":"6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
     "admin":{
-      "Gay":"РќРђРўРЈР РђР›Р›Р›Р›Р›Р›Р›Р›Р›Р›Р›Р›Р›!",
+      "Gay":"Р СњР С’Р СћР Р€Р В Р С’Р вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂєР вЂє!",
       "username":"sanyabond008",
       "chat_id":1736139431
     }
   },
   "AutoTicket":false,
-  "AudioMessage":{
-    "FINISH":true,
-    "State":true,
-    "NEW":true,
-    "UNAVAILABLE":true,
-    "Volume":100
-  },
+  "AutoAdmin":false,
   "FloodDelay":100,
   "AutoDoor":false,
-  "AutoAdmin":false
+  "AutoInsert":false
 }
