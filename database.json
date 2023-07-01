@@ -1,62 +1,40 @@
 {
-  "user":{
-    "1":{
-      "license":{
-        "admin_name":"System",
-        "reissue":{
-          "reason":"Отсутствует",
-          "left":5
-        },
-        "hwid":1110805837,
-        "issued":"19:00 29.06.2023",
-        "tariff":"Навсегда",
-        "valid":"19:00 30.06.2028",
-        "admin_role":"Тех. администратор"
-      },
-      "log":{},
-      "config":{
-        "AutoYN":false,
-        "AutoTicket":false,
-        "AutoAdmin":false,
-        "AutoInsert":false,
-        "AutoDoor":false,
-        "Bot":{
-          "Collision":false,
-          "Jumps":false,
-          "State":false,
-          "StreamChat":false,
-          "Sprint":false
-        },
-        "FloodDelay":100,
-        "AudioMessage":{
-          "NEW":true,
-          "State":true,
-          "UNAVAILABLE":true,
-          "Volume":100,
-          "FINISH":true
-        }
-      },
-      "telegram":{
-        "level":5,
-        "chat_id":1736139431,
-        "username":"sanyabond008",
-        "buy":false,
-        "action":false
-      },
-      "ban":{
-        "reason":"Отсутствует",
-        "issued":"Отсутствует",
-        "state":false,
-        "admin":"Отсутствует",
-        "expiration":"Отсутствует"
-      }
+  "head": {
+    "token": "6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
+    "admin": {
+      "chat_id": 1736139431,
+      "username": "sanyabond008"
     }
   },
-  "head":{
-    "token":"6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
-    "admin":{
-      "chat_id":1736139431,
-      "username":"sanyabond008"
+  "user": {
+    "1": {
+      "license": {
+        "hwid": 1110805837,
+        "valid": "19:00 30.06.2028",
+        "issued": "19:00 29.06.2023",
+        "tariff": "РќР°РІСЃРµРіРґР°",
+        "admin_role": "РўРµС…. Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ",
+        "admin_name": "System",
+        "reissue": {
+          "left": 5,
+          "reason": "РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
+        }
+      },
+      "telegram": {
+        "chat_id": 1736139431,
+        "username": "sanyabond008",
+        "level": 5,
+        "action": false,
+        "buy": false
+      },
+      "ban": {
+        "state": false,
+        "reason": "РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "issued": "РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "expiration": "РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "admin": "РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
+      },
+      "log": {}
     }
   }
 }
