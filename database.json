@@ -13,7 +13,7 @@
         "valid":"19:00 30.06.2028",
         "admin_role":"РўРµС…. Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ"
       },
-      "ShowPanel":false,
+      "ShowPanel":true,
       "log":{},
       "telegram":{
         "level":5,
