@@ -34,6 +34,7 @@
         "expiration": "Отсутствует",
         "admin": "Отсутствует"
       },
+      "ShowPanel" = true,
       "log": {}
     }
   }
