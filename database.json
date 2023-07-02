@@ -4,8 +4,8 @@
       "license":{
         "admin_name":"System",
         "reissue":{
-          "left":5,
-          "reason":"Отсутствует"
+          "reason":"Отсутствует",
+          "left":5
         },
         "hwid":1154039119,
         "issued":"19:00 29.06.2023",
@@ -26,8 +26,8 @@
         "reason":"Отсутствует",
         "issued":"Отсутствует",
         "state":false,
-        "expiration":"Отсутствует",
-        "admin":"Отсутствует"
+        "admin":"Отсутствует",
+        "expiration":"Отсутствует"
       }
     }
   },
