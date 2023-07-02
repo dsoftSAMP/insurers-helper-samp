@@ -4,8 +4,8 @@
       "license":{
         "admin_name":"System",
         "reissue":{
-          "reason":"Отсутствует",
-          "left":5
+          "left":5,
+          "reason":"Отсутствует"
         },
         "hwid":1154039119,
         "issued":"19:00 29.06.2023",
@@ -13,7 +13,7 @@
         "valid":"19:00 30.06.2028",
         "admin_role":"Тех. администратор"
       },
-      "ShowPanel":true,
+      "ShowPanel":false,
       "log":{},
       "telegram":{
         "level":5,
@@ -24,10 +24,10 @@
       },
       "ban":{
         "reason":"Отсутствует",
-        "issued":"Отсутствует",
-        "state":false,
         "admin":"Отсутствует",
-        "expiration":"Отсутствует"
+        "state":false,
+        "expiration":"Отсутствует",
+        "issued":"Отсутствует"
       }
     }
   },
