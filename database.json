@@ -4,16 +4,16 @@
       "license":{
         "admin_name":"System",
         "reissue":{
-          "reason":"Отсутствует",
-          "left":5
+          "left":5,
+          "reason":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
         },
         "hwid":1154039119,
         "issued":"19:00 29.06.2023",
-        "tariff":"Навсегда",
+        "tariff":"РќР°РІСЃРµРіРґР°",
         "valid":"19:00 30.06.2028",
-        "admin_role":"Тех. администратор"
+        "admin_role":"РўРµС…. Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ"
       },
-      "ShowPanel":false,
+      "ShowPanel":true,
       "log":{},
       "telegram":{
         "level":5,
@@ -23,11 +23,11 @@
         "action":false
       },
       "ban":{
-        "reason":"Отсутствует",
-        "issued":"Отсутствует",
+        "reason":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "admin":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
         "state":false,
-        "admin":"Отсутствует",
-        "expiration":"Отсутствует"
+        "expiration":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚",
+        "issued":"РћС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
       }
     }
   },
