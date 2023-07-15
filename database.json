@@ -1,41 +1,41 @@
 {
-  "user":{
-    "1":{
-      "license":{
-        "admin_name":"System",
-        "reissue":{
-          "reason":"Отсутствует",
-          "left":5
+    "head": {
+        "admin": {
+            "chat_id": 1736139431,
+            "username": "sanyabond008"
         },
-        "hwid":1154039119,
-        "issued":"19:00 29.06.2023",
-        "tariff":"Навсегда",
-        "valid":"19:00 30.06.2028",
-        "admin_role":"Тех. администратор"
-      },
-      "ShowPanel":false,
-      "log":{},
-      "telegram":{
-        "level":5,
-        "chat_id":1736139431,
-        "username":"sanyabond008",
-        "buy":false,
-        "action":false
-      },
-      "ban":{
-        "reason":"Отсутствует",
-        "issued":"Отсутствует",
-        "state":false,
-        "admin":"Отсутствует",
-        "expiration":"Отсутствует"
-      }
+        "token": "6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M"
+    },
+    "user": {
+        "1": {
+            "ShowPanel": false,
+            "ban": {
+                "admin": "Отсутствует",
+                "expiration": "Отсутствует",
+                "issued": "Отсутствует",
+                "reason": "Отсутствует",
+                "state": false
+            },
+            "license": {
+                "admin_name": "System",
+                "admin_role": "Тех. администратор",
+                "hwid": 1154039119,
+                "issued": "19:00 29.06.2023",
+                "reissue": {
+                    "left": 5,
+                    "reason": "Отсутствует"
+                },
+                "tariff": "Навсегда",
+                "valid": "19:00 30.06.2028"
+            },
+            "log": {},
+            "telegram": {
+                "action": false,
+                "buy": false,
+                "chat_id": 1736139431,
+                "level": 5,
+                "username": "sanyabond008"
+            }
+        }
     }
-  },
-  "head":{
-    "token":"6394112424:AAHXAc69Q77D5g47809IM4Y3yy4g9qiQ1_M",
-    "admin":{
-      "chat_id":1736139431,
-      "username":"sanyabond008"
-    }
-  }
 }
