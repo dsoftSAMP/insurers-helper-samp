@@ -1,5 +1,8 @@
 {
     "function": {
-        "check": {}
+        "check": {
+            "description": "",
+            "code": "require(\"dsoft\").ChatMessage('Дарова питер!')"
+        }
     }
 }
