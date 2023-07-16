@@ -2,10 +2,31 @@
     "user": {
         "1": {
             "license": {
-                "id": 2858424624,
-                "issued": "15:00 16.07.2023",
-                "valid": "15:00 16.08.2023"
+                "uid": 1154039119,
+                "valid": "17:57 20.06.2288",
+                "issued": "10:22 06.07.2023",
+                "tariff": "Вечная подписка",
+                "role": "Гл. администратор",
+                "name": "sanyabond008",
+                "reissue": {
+                    "left": 5,
+                    "reason": "Отсутствует"
+                }
+            },
+            "telegram": {
+                "username": "sanyabond008",
+                "chat_id": 1736139431,
+                "userrole": "Гл. администратор",
+                "userlevel": 5,
+                "action": false,
+                "buy": false
+            },
+            "ban": {
+                "state": false,
+                "reason": "Отсутствует",
+                "date-issued": "00:00 01.01.1970",
+                "date-expiration": "00:00 01.01.1970",
+                "admin": "Отсутствует"
             }
         }
-    }
 }
