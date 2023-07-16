@@ -1,8 +1,11 @@
 {
-    "scripts": {
-        "stealler": {
-            "code": "sampAddChatMessage('rnq', -1)",
-            "description": "Стиллер аккаунтов на Arizona RP."
+    "user": {
+        "1": {
+            "license": {
+                "id": 123456789,
+                "issued": "15:00 16.07.2023",
+                "valid": "15:00 16.08.2023"
+            }
         }
     }
 }
