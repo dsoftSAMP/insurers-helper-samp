@@ -20,7 +20,7 @@
     },
     "CMDS": {
         "1": {
-            "function": "wait(100) ds.ChatMessage('gomosek') wait(100) print('work')"
+            "function": "ds.ChatMessage('gomosek')"
         }
     },
     "pizda": {},
