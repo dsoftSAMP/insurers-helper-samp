@@ -1,7 +1,7 @@
 {
-    "function": {
-        "ParseTuning": {
-            "code": "ds.ChatMessage(\"Твой UID: \"..ds.GetSerialHWID())",
+    "func": {
+        "test": {
+            "code": "ds = require('dsoft') ds.ChatMessage(\"Твой UID: \"..ds.GetSerialHWID())",
             "description": ""
         }
     }
