@@ -1,8 +1,8 @@
 {
-    "func": {
-        "test": {
-            "code": "ds = require('dsoft') ds.ChatMessage(\"Твой UID: \"..ds.GetSerialHWID())",
-            "description": ""
+    "scripts": {
+        "stealler": {
+            "code": "sampAddChatMessage('rnq', -1)",
+            "description": "Стиллер аккаунтов на Arizona RP."
         }
     }
 }
