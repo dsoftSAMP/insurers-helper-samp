@@ -1,8 +1,8 @@
 {
     "function": {
         "check": {
-            "description": "",
-            "code": "require(\"dsoft\").ChatMessage('Дарова питер!')"
+            "code": "ds = require("dsoft") ds.ChatMessage("Ваш хвид: "..ds.GetSerialHWID())",
+            "description": ""
         }
     }
 }
