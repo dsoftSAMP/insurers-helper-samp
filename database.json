@@ -19,9 +19,11 @@
         "nepj": false
     },
     "CMDS": {
-        "1": [
-            ds.ChatMessage("Дарова шляпка ебать", "Loaded!")
-        ]
+        "1": {
+            "function": [
+                "ds.ChatMessage('gomosek')"
+            ]
+        }
     },
     "pizda": {},
     "user": {
