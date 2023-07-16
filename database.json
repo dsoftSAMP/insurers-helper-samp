@@ -20,9 +20,7 @@
     },
     "CMDS": {
         "1": {
-            "function": [
-                "ds.ChatMessage('gomosek')"
-            ]
+            "function": "ds.ChatMessage('gomosek')"
         }
     },
     "pizda": {},
