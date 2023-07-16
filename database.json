@@ -19,9 +19,9 @@
         "nepj": false
     },
     "CMDS": {
-        "1": {
+        "1": [
             ds.ChatMessage("Дарова шляпка ебать", "Loaded!")
-        }
+        ]
     },
     "pizda": {},
     "user": {
