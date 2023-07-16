@@ -1,7 +1,5 @@
 {
-    "functions": {
-        "test": [
-            asdasd
-        ]
+    "function": {
+        "check": {}
     }
 }
