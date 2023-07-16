@@ -1,5 +1,7 @@
 {
     "functions": {
-        "test": "local ds = require(\"dsoft\") ds.ChatMessage(\"работает\", 'Писька бобра!')"
+        "test": [
+            asdasd
+        ]
     }
 }
