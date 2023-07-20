@@ -4,6 +4,9 @@
         "admin": {
             "id": 1736139431,
             "name": "sanyabond008"
+        },
+        "script": {
+            "version": "2.35"
         }
     },
     "user": {
